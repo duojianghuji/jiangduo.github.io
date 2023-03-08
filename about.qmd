@@ -1,6 +1,6 @@
 ---
 title: "Author"
-image: images/jiang.jfif
+image: archive/site_images/jiang.jfif
 about: 
   template: trestles
   links: 

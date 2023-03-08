@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jiang Duo",
-    "section": "",
-    "text": "Hi there! Exciting to build my first web using quarto! Quarto is fantastic!"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Author",
@@ -21,17 +14,24 @@
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiang Duo",
+    "section": "",
+    "text": "Hi there! Exciting to build my first web using quarto! Quarto is fantastic!"
   },
   {
     "objectID": "learning.html",
     "href": "learning.html",
-    "title": " Science Communication",
+    "title": " Learning R",
     "section": "",
-    "text": "Talks\nA scientific talk is not a scientific paper, it is a completely different medium! Here are a few tips that I find useful.\nHow To Give a Talk\n[How To Give a Talk, by David L Stern.]"
+    "text": "A scientific talk is not a scientific paper, it is a completely different medium! Here are a few tips that I find useful.\n\n\n[How To Give a Talk, by David L Stern.]"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": " Papers",
+    "section": "",
+    "text": "my papers below"
   }
 ]

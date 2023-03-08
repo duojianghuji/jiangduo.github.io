@@ -1,7 +1,8 @@
 ---
 title: ""
-page-layout: article
+# page-layout: article
 ---
 
+## Hi there
 Hi there! Exciting to build my  first web using quarto! Quarto is fantastic!
 

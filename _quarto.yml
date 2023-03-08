@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Jiang Duo"
-  favicon: archive/site_images/Logo-INRAE.jpg
+  # favicon: archive/site_images/Logo-INRAE.jpg
   navbar:
     search: false
     # logo: archive/site_images/Logo-INRAE.jpg
@@ -14,6 +14,9 @@ website:
       - about.qmd
       - learning.qmd
       - papers.qmd
+      - science.qmd
+
+      
       
       # - group.qmd
       # - courses/index.qmd

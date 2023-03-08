@@ -1,8 +1,8 @@
 ---
-title: "{{< fa microphone-alt >}} Science Communication"
-echo: false
-# jupyter: python3
-section-divs: false
+title: "{{< fa microphone-alt >}} Learning R"
+# echo: false
+# 
+# section-divs: false
 ---
 
 ## Talks
