@@ -1,11 +1,7 @@
 ---
-title: "jiangduo.github.io"
+title: ""
+page-layout: article
 ---
 
-This is a Quarto website.
+Hi there! Exciting to build my  first web using quarto! Quarto is fantastic!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

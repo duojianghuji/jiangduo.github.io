@@ -1,0 +1,14 @@
+---
+title: "{{< fa microphone-alt >}} Science Communication"
+echo: false
+# jupyter: python3
+section-divs: false
+---
+
+## Talks
+
+A scientific talk **is not** a scientific paper, it is a completely different medium! Here are a few tips that I find useful.
+
+### How To Give a Talk
+
+[[How To Give a Talk, by David L Stern.](http://www.howtogiveatalk.com/)]

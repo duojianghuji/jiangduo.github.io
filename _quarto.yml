@@ -3,16 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "jiangduo.github.io"
+  title: "Jiang Duo"
+  favicon: archive/site_images/Logo-INRAE.jpg
   navbar:
+    search: false
+    # logo: archive/site_images/Logo-INRAE.jpg
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - about.qmd
+      - learning.qmd
+      - papers.qmd
+      
+      # - group.qmd
+      # - courses/index.qmd
+      # - more/index.qmd
+
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [flatly, custom.scss, custom-light.scss]
+      dark: [darkly, custom.scss, custom-dark.scss]
     css: styles.css
     toc: true
 

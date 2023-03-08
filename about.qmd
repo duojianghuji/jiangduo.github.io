@@ -1,9 +1,33 @@
 ---
-title: "About"
+title: "Author"
+image: images/jiang.jfif
+about: 
+  template: trestles
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/JiangDuo2
+    - icon: github
+      text: Github
+      href: https://github.com/duojianghuji
+    - href: mailto:jiang.duo@inrae.fr
+      text: Email
+      
 ---
 
-About this site
+## Education
 
-```{r}
-1 + 1
-```
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
+
+{{< fa thumbs-up >}} 
+
